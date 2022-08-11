@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shadaakshari-portfolio/static/css/main.c7222efe.chunk.css",
+    "main.js": "/shadaakshari-portfolio/static/js/main.1a382355.chunk.js",
+    "main.js.map": "/shadaakshari-portfolio/static/js/main.1a382355.chunk.js.map",
+    "runtime-main.js": "/shadaakshari-portfolio/static/js/runtime-main.0e85491c.js",
+    "runtime-main.js.map": "/shadaakshari-portfolio/static/js/runtime-main.0e85491c.js.map",
+    "static/css/2.e4777ce8.chunk.css": "/shadaakshari-portfolio/static/css/2.e4777ce8.chunk.css",
+    "static/js/2.08bd68fc.chunk.js": "/shadaakshari-portfolio/static/js/2.08bd68fc.chunk.js",
+    "static/js/2.08bd68fc.chunk.js.map": "/shadaakshari-portfolio/static/js/2.08bd68fc.chunk.js.map",
+    "index.html": "/shadaakshari-portfolio/index.html",
+    "precache-manifest.a625e6cfc9487d203fca6d5c40a1ff96.js": "/shadaakshari-portfolio/precache-manifest.a625e6cfc9487d203fca6d5c40a1ff96.js",
+    "service-worker.js": "/shadaakshari-portfolio/service-worker.js",
+    "static/css/2.e4777ce8.chunk.css.map": "/shadaakshari-portfolio/static/css/2.e4777ce8.chunk.css.map",
+    "static/css/main.c7222efe.chunk.css.map": "/shadaakshari-portfolio/static/css/main.c7222efe.chunk.css.map",
+    "static/js/2.08bd68fc.chunk.js.LICENSE.txt": "/shadaakshari-portfolio/static/js/2.08bd68fc.chunk.js.LICENSE.txt",
+    "static/media/amazon.png": "/shadaakshari-portfolio/static/media/amazon.6dad6444.png",
+    "static/media/cb_quiz.png": "/shadaakshari-portfolio/static/media/cb_quiz.d2138f86.png",
+    "static/media/data_viz.png": "/shadaakshari-portfolio/static/media/data_viz.a3015f4b.png",
+    "static/media/developer.jpeg": "/shadaakshari-portfolio/static/media/developer.a756e011.jpeg",
+    "static/media/django_blog.png": "/shadaakshari-portfolio/static/media/django_blog.4be813ce.png",
+    "static/media/fefit.png": "/shadaakshari-portfolio/static/media/fefit.19029594.png",
+    "static/media/fencing_scoreboard.png": "/shadaakshari-portfolio/static/media/fencing_scoreboard.285babe4.png",
+    "static/media/json-table.png": "/shadaakshari-portfolio/static/media/json-table.282dcf2e.png",
+    "static/media/mobile-portfolio.jpg": "/shadaakshari-portfolio/static/media/mobile-portfolio.bf4d336b.jpg",
+    "static/media/phishfgen.png": "/shadaakshari-portfolio/static/media/phishfgen.be70127d.png",
+    "static/media/portfolio.png": "/shadaakshari-portfolio/static/media/portfolio.949bd3ee.png",
+    "static/media/portfolioshaddu.png": "/shadaakshari-portfolio/static/media/portfolioshaddu.f5023671.png",
+    "static/media/whiteboard.png": "/shadaakshari-portfolio/static/media/whiteboard.56b94ec4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e85491c.js",
+    "static/css/2.e4777ce8.chunk.css",
+    "static/js/2.08bd68fc.chunk.js",
+    "static/css/main.c7222efe.chunk.css",
+    "static/js/main.1a382355.chunk.js"
+  ]
+}
