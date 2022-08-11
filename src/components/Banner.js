@@ -26,7 +26,7 @@ export default function Banner() {
                 </div>
 
                 <div className={`delay-sm ${showButtons ? "show" : ""}`}>
-                    { <a className="btn btn-secondary d-none d-sm-block" href={"https://drive.google.com/file/d/167F3nldGe5eI-NaxVbRjNxP0zK-3cAPe/view?usp=sharing"} >View Resume</a> }
+                    { <a className="btn btn-secondary d-none d-sm-block" href={"https://drive.google.com/file/d/1a5QK3bHaw2K_k7SXGt1YZTqJnhq152N0/view?usp=sharing"} >View Resume</a> }
                     <Link
                         className="btn btn-secondary d-none d-sm-block"
                         to="projects"

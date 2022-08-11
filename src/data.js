@@ -14,14 +14,14 @@ const projects = [
         stack: ['Python', 'Jupyter', 'Flask', 'Heroku'],
         imgName: 'phishfgen.png',
         siteUrl: 'http://cdcproject1.herokuapp.com/',
-        codeUrl: 'https://github.com/shadaakshari-xoxo/PHISHING-WEBSITE-DETECTION',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/PHISHING-WEBSITE-DETECTION',
     },
     {
         title: 'Amazon E-commerce analytics',
         description: 'The full model encompassing all product categories was developed to give significant variables that affected ranking of products',
         stack: [ 'Python', 'Jupyter', 'R'],
         imgName: 'amazon.png',
-        codeUrl: 'https://github.com/shadaakshari-xoxo/Amazon-product-ranking-analytics',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/Amazon-product-ranking-analytics',
         altCodeUrl: 'https://github.com/huishun98/songdedi-requests'
     },
     {
@@ -29,22 +29,22 @@ const projects = [
         description: 'a Fitness tracker exclusively for women to keep a tab of their fitness journey.',
         stack: ['HTML', 'CSS', 'JavaScript', 'React JS', 'NodeJs'],
         imgName: 'fefit.png',
-        codeUrl: 'https://github.com/shadaakshari-xoxo/FeFit-fitness-website.github.io',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/FeFit-fitness-website.github.io',
     },
     {
         title: 'Stock Market prediction of Nifty 50',
         description: 'Analyzing, predicting and visualizing the data of fifteen NIFTY 50 companies of four sectors: Finance , Automobile , IT , goods',
         stack: ['R', 'Python'],
         imgName: 'StockMarket.png',
-        codeUrl: 'https://github.com/shadaakshari-xoxo/Stock-market-prediction',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/Stock-market-prediction',
     },
     {
         title: 'Personal Portfolio',
         description: 'This website gives an insight into the projects (personal/academic) that I have developed .',
         stack: ['React JS', 'HTML', 'CSS', 'JavaScript'],
         imgName: 'portfolioshaddu.png',
-        siteUrl: 'https://huishun98.github.io/json-table',
-        codeUrl: 'https://github.com/huishun98/json-table',
+        siteUrl: 'https://shadaakshari-kalagara.github.io/shadaakshari-portfolio/',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/shadaakshari-Kalagara.github.io',
     },
     {
         title: 'Collaborative white board',
@@ -52,7 +52,7 @@ const projects = [
         stack: ['Node JS', 'React JS', 'HTML', 'CSS', 'JavaScript'],
         imgName: 'whiteboard.png',
         siteUrl: '',
-        codeUrl: 'https://github.com/shadaakshari-xoxo/white-board-collaborative',
+        codeUrl: 'https://github.com/shadaakshari-Kalagara/white-board-collaborative',
     },
     
 ]
